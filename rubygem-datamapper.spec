@@ -5,7 +5,7 @@ Summary:	An Object/Relational Mapper for Ruby
 Name:		rubygem-%{rbname}
 
 Version:	1.2.0
-Release:	1
+Release:	2
 Group:		Development/Ruby
 License:	GPLv2+ or Ruby
 URL:		http://datamapper.org
